@@ -17,7 +17,7 @@ python cssauditor.py --styleatts [PATH/TO/HTML/OR/PHP/FILE/OR/FOLDER]
 python cssauditor.py --styletags [PATH/TO/HTML/OR/PHP/FILE/OR/FOLDER]
 ```
 
-**Show repeated colors:** CSS colors which are repeatedly used should be placed inside variables. This option shows you repeated colors and their occurence frequency. 
+**Show repeated colors:** CSS colors which are repeatedly used should be placed inside variables. This option shows you repeated colors and their occurence frequency. There's support for all major color models, including keywords, hexadecimal, RGB, HSL, HWB, LCH, and Lab.  
 ```
 python cssauditor.py --colors [PATH/TO/CSS/FILE/OR/FOLDER]
 ```
