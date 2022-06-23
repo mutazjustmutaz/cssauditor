@@ -1,7 +1,7 @@
 
 >This is voodoo. The question is: Is this too much?
 
-~ Terry Davis
+~Terry Davis
 
 As your web application grows bigger it's easy to lose control of its CSS code. This application helps you regain control by going through your code files and showing you the location of style attributes, style tags, repeated colors, and unused CSS classes.
 
