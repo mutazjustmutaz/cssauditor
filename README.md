@@ -29,9 +29,14 @@ python cssauditor.py --unused [PATH/TO/CSS/FILE/OR/FOLDER] [PATH/TO/HTML/OR/PHP/
 
 ### Notes:
 
-1- HTML/PHP folders are searched recursively. CSS folders are NOT searched recursively.
+1- The application depends on the "lxml" package, so you have to install it first.
+```
+pip install lxml
+```
 
-2- Don't forget to put the path in double quotes if it contains spaces.
+2- HTML/PHP folders are searched recursively. CSS folders are NOT searched recursively.
+
+3- Don't forget to put the path in double quotes if it contains spaces.
 
 ### Status:
 
