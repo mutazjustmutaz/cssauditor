@@ -43,3 +43,5 @@ pip install lxml
 This Python application, while useful, is meant as a prototype for an application which I'm writing in C. The reason is that Python is relatively slow, and performance is crucial in an application of this type.
 
 Due to the software's status as a prototype, I haven't put as much effort as I could have into testing, refactoring, and optimization. And I also don't plan to add more features. 
+
+**UPDATE:** I've published an initial version of the C application:  https://github.com/mutazjustmutaz/csscheck
